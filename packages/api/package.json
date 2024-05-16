@@ -42,8 +42,8 @@
   },
   "devDependencies": {
     "@alwatr/crypto": "^3.0.4",
-    "@alwatr/logger": "^3.2.6",
-    "@alwatr/nano-build": "^1.3.4",
+    "@alwatr/logger": "^3.2.8",
+    "@alwatr/nano-build": "^1.3.6",
     "@alwatr/nano-server": "^1.2.7",
     "@alwatr/pmpa-types": "workspace:^",
     "@alwatr/prettier-config": "^1.0.4",
