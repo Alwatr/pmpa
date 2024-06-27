@@ -48,7 +48,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-directory-output": "^1.0.1",
-    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "@11ty/eleventy-plugin-rss": "^2.0.1",
     "@alwatr/fetch": "^3.1.2",
     "@alwatr/font": "^1.2.0",
     "@alwatr/i18n": "^2.0.4",
@@ -65,18 +65,18 @@
     "@alwatr/util": "^1.4.1",
     "@swc/html": "^0.0.28",
     "@types/alpinejs": "^3.13.10",
-    "@types/node": "^20.12.2",
-    "@web/dev-server": "^0.4.3",
-    "alpinejs": "^3.13.7",
-    "cssnano": "^6.1.2",
-    "esbuild": "^0.20.2",
+    "@types/node": "^20.14.9",
+    "@web/dev-server": "^0.4.6",
+    "alpinejs": "^3.14.1",
+    "cssnano": "^7.0.3",
+    "esbuild": "^0.21.5",
     "postcss": "^8.4.38",
     "postcss-import": "^16.1.0",
-    "postcss-preset-env": "^9.5.4",
+    "postcss-preset-env": "^9.5.14",
     "postcss-variable-compress": "^3.0.0",
     "postcss-viewport-unit-fallback": "^1.0.1",
-    "tailwindcss": "^3.4.3",
-    "typescript": "^5.4.3",
-    "workbox-build": "^7.0.0"
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.5.2",
+    "workbox-build": "^7.1.1"
   }
 }
